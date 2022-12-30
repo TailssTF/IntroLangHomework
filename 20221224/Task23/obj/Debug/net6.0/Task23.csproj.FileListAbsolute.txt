@@ -1,0 +1,15 @@
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\bin\Debug\net6.0\Task23.exe
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\bin\Debug\net6.0\Task23.deps.json
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\bin\Debug\net6.0\Task23.dll
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\bin\Debug\net6.0\Task23.pdb
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.dll
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\refint\Task23.dll
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.pdb
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+D:\Code\geekbrains\IntroLangHomework\20221224\Task23\obj\Debug\net6.0\ref\Task23.dll
