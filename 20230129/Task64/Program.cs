@@ -15,14 +15,13 @@ int GetNumber(string message)
     {
         Console.WriteLine(message);
 
-        if (int.TryParse(Console.ReadLine(), out result))
+        if (int.TryParse(Console.ReadLine(), out result) && result >= 1)
         {
-            if (result < 1) Console.WriteLine("Число меньше 1");
-            else break;
+            break;
         }
         else
         {
-            Console.WriteLine("Ввели не число");
+            Console.WriteLine("Ввели не число или число меньше 1");
         }
     }
     return result;
